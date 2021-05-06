@@ -1,0 +1,12 @@
+body {
+    background: blanchedalmond;
+}
+
+#mainContainer {
+    background: white;
+}
+
+#booksGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
